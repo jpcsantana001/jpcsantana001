@@ -214,9 +214,9 @@ $ ./current_goals.sh
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpcsantana001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcsantana001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
 
 </div>
 
@@ -226,7 +226,7 @@ $ ./current_goals.sh
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=jpcsantana001&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
@@ -236,7 +236,7 @@ $ ./current_goals.sh
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jpcsantana001&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
 
 </div>
 
@@ -246,7 +246,7 @@ $ ./current_goals.sh
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jpcsantana001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
@@ -256,7 +256,14 @@ $ ./current_goals.sh
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/jpcsantana001/jpcsantana001/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/jpcsantana001/jpcsantana001/output/github-contribution-grid-snake.svg">
+  <img alt="Animação das contribuições de João Pedro"
+       src="https://raw.githubusercontent.com/jpcsantana001/jpcsantana001/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -266,50 +273,16 @@ $ ./current_goals.sh
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINK_LINKEDIN)
+<a href="https://www.linkedin.com/in/joão-pedro-santana-dos-anjos-016b10312">
+  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](SEU_LINK_INSTAGRAM)
+<a href="https://www.instagram.com/joaop__santana">
+  <img src="https://img.shields.io/badge/Instagram-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SEU_USUARIO)
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║             SYSTEM MESSAGE                                   ║
-║                                                              ║
-║      "Ideas become valuable when we build them."             ║
-║                                                              ║
-║             SESSION STATUS: ACTIVE                           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-### Thanks for visiting my profile 👾
-
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO\&style=for-the-badge\&color=blueviolet)
-
-`< João Pedro Santana />`
+<a href="https://github.com/jpcsantana001">
+  <img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
-
-
-<!--
-**jpcsantana001/jpcsantana001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
