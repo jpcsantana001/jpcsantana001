@@ -1,16 +1,16 @@
 <div align="center">
 
-# 👨‍💻 JOÃO PEDRO SANTANA
-
-### `Software Engineering • Full Stack Developer • Building Real Systems`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Initializing+developer+profile...;Software+Engineering+Student;Full+Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Turning+ideas+into+real+systems.;System+ready.+Welcome." alt="Typing SVG" />
+<img src="./assets/banner.svg" width="100%" alt="João Pedro Santana - Full Stack Developer"/>
 
 <br/>
 
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00f7ff?style=for-the-badge)
-![Focus](https://img.shields.io/badge/FOCUS-FULL%20STACK-7c3aed?style=for-the-badge)
-![Software Engineering](https://img.shields.io/badge/SOFTWARE-ENGINEERING-111827?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=SYSTEM+INITIALIZATION...;JO%C3%83O+PEDRO+SANTANA;FULL+STACK+DEVELOPER;BUILDING+REAL+SYSTEMS;STATUS%3A+ONLINE+%E2%97%8F" alt="Typing Animation"/>
+
+<br/>
+
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00E676?style=for-the-badge)
+![Focus](https://img.shields.io/badge/FOCUS-FULL%20STACK-00B8FF?style=for-the-badge)
+![Engineering](https://img.shields.io/badge/SOFTWARE-ENGINEERING-7C4DFF?style=for-the-badge)
 
 </div>
 
@@ -18,144 +18,87 @@
 
 ## `> SYSTEM.USER`
 
-```yaml
-name: João Pedro Santana
-role: Full Stack Developer
-education: Software Engineering
-location: Brazil
-
-current_focus:
-  - Full Stack Development
-  - Business Management Systems
-  - Financial Systems
-  - Automation
-  - Artificial Intelligence
-
-status: Building...
+```json
+{
+  "name": "João Pedro Santana",
+  "role": "Full Stack Developer",
+  "education": "Software Engineering",
+  "location": "Brazil",
+  "focus": [
+    "Web Development",
+    "Business Systems",
+    "Automation",
+    "Software Architecture"
+  ],
+  "status": "Always learning..."
+}
 ```
 
 ---
 
-## `> ABOUT_ME.exe`
+## `> ABOUT_ME`
 
-Olá! 👋
-
-Sou **João Pedro Santana**, estudante de **Engenharia de Software** e desenvolvedor focado na construção de aplicações web e sistemas completos.
-
-Gosto de transformar problemas reais em software, trabalhando desde a interface até banco de dados, regras de negócio, autenticação, APIs e infraestrutura.
-
-Atualmente estou aprofundando meus conhecimentos em **arquitetura de software, desenvolvimento Full Stack, automações e inteligência artificial aplicada a sistemas**.
-
-```bash
+```text
 joao@developer:~$ whoami
+```
 
-> Software Engineering Student
-> Full Stack Developer
-> Problem Solver
-> Technology Enthusiast
+Sou estudante de **Engenharia de Software** e desenvolvedor **Full Stack**, apaixonado por tecnologia e pela construção de soluções para problemas reais.
 
-joao@developer:~$ status
+Meu foco está no desenvolvimento de **sistemas web completos**, trabalhando com interfaces, APIs, bancos de dados, regras de negócio, autenticação, automação e infraestrutura.
 
-> Learning  ████████████████████ 100%
-> Building  ███████████████████░  95%
-> Improving ████████████████████ 100%
+```text
+> Learning ................. ████████████████████ 100%
+> Building ................. ███████████████████░  95%
+> Improving ................ ████████████████████ 100%
 
-SYSTEM STATUS: ONLINE 🟢
+SYSTEM STATUS: ONLINE ●
 ```
 
 ---
 
-# ⚡ `TECH_STACK`
+## `> TECH_STACK`
 
 <div align="center">
 
-### Front-end
+### FRONT-END
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vite&theme=dark"/>
 
-### Back-end
+### BACK-END
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&theme=dark"/>
 
-### Database
+### DATABASE
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
 
-### DevOps & Tools
+### TOOLS & INFRASTRUCTURE
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,npm&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,npm&theme=dark"/>
 
 </div>
 
 ---
 
-# 🧠 `KNOWLEDGE_BASE`
-
-```text
-├── Front-end
-│   ├── React
-│   ├── TypeScript
-│   ├── JavaScript
-│   ├── HTML
-│   └── CSS
-│
-├── Back-end
-│   ├── Node.js
-│   ├── APIs REST
-│   ├── PHP
-│   └── Laravel
-│
-├── Database
-│   ├── MySQL
-│   ├── MongoDB
-│   └── Drizzle ORM
-│
-├── Infrastructure
-│   ├── Docker
-│   ├── Linux
-│   ├── Git / GitHub
-│   └── Cloud Deployments
-│
-└── Currently Exploring
-    ├── Software Architecture
-    ├── Artificial Intelligence
-    ├── Automation
-    └── System Security
-```
-
----
-
-# 🚀 `PROJECT_DATABASE`
+## `> FEATURED_PROJECTS`
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 📊 Gestor360
 
-Sistema de gestão empresarial desenvolvido para centralizar informações e facilitar o acompanhamento operacional e estratégico.
-
-**Principais áreas**
-
-`Dashboard` `Gestão` `Indicadores` `Controle de acesso`
-
-**Stack**
+Sistema de gestão empresarial desenvolvido para centralizar informações, indicadores e processos.
 
 `React` `TypeScript` `Node.js` `MySQL`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 💰 Financeiro360
 
-Sistema financeiro focado em controle de vendas, comissionamentos, conferências e processos financeiros.
-
-**Principais áreas**
-
-`Financeiro` `Comissões` `Vendas` `Relatórios`
-
-**Stack**
+Sistema financeiro para gerenciamento de vendas, comissionamentos, conferências e processos financeiros.
 
 `React` `TypeScript` `Node.js` `MySQL` `Docker`
 
@@ -163,30 +106,26 @@ Sistema financeiro focado em controle de vendas, comissionamentos, conferências
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🏠 A Casa
 
-Plataforma web desenvolvida com foco em experiência digital, gerenciamento e integração de funcionalidades.
-
-**Stack**
+Plataforma web desenvolvida com foco em experiência digital e gerenciamento de funcionalidades.
 
 `React` `TypeScript` `Node.js` `MySQL`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🔬 Next Project
+### ⚡ NEXT_PROJECT.exe
 
 ```text
-STATUS ............... PLANNING
-ARCHITECTURE ......... LOADING
-DATABASE ............. LOADING
-CODE .................. SOON
+STATUS.............. PLANNING
+ARCHITECTURE........ LOADING
+DATABASE............ LOADING
+CODE................ SOON
 ```
-
-> Always building something new.
 
 </td>
 </tr>
@@ -194,45 +133,33 @@ CODE .................. SOON
 
 ---
 
-# 🎯 `CURRENT_MISSION`
+## `> CURRENT_MISSIONS`
 
-```bash
-$ ./current_goals.sh
+```text
+[01] Full Stack Development      ██████████████████░░ 90%
+[02] Software Architecture       ██████████████░░░░░░ 70%
+[03] Production Systems          █████████████████░░░ 85%
+[04] Artificial Intelligence     ████████████░░░░░░░░ 60%
+[05] Process Automation          ████████████████░░░░ 80%
 
-[01] ███████████████████░  Improving Full Stack skills
-[02] ██████████████████░░  Software Architecture
-[03] ███████████████████░  Building production systems
-[04] ███████████████░░░░░  Artificial Intelligence
-[05] █████████████████░░░  DevOps & Infrastructure
-
-> Mission: Build better software every day.
+> Mission: Build solutions that make a difference.
 ```
 
 ---
 
-# 📊 `GITHUB_ANALYTICS`
+## `> GITHUB_ANALYTICS`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpcsantana001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=jpcsantana001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcsantana001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcsantana001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 ---
 
-# 🔥 `CONTRIBUTION_STREAK`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jpcsantana001&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
-# 📈 `ACTIVITY_GRAPH`
+## `> ACTIVITY`
 
 <div align="center">
 
@@ -242,47 +169,59 @@ $ ./current_goals.sh
 
 ---
 
-# 🏆 `ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jpcsantana001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
-
-# 🐍 `CONTRIBUTION_MATRIX`
+## `> CONTRIBUTION_MATRIX`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/jpcsantana001/jpcsantana001/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/jpcsantana001/jpcsantana001/output/github-contribution-grid-snake.svg">
-  <img alt="Animação das contribuições de João Pedro"
-       src="https://raw.githubusercontent.com/jpcsantana001/jpcsantana001/output/github-contribution-grid-snake.svg">
-</picture>
+    srcset="https://raw.githubusercontent.com/jpcsantana001/jpcsantana001/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/jpcsantana001/jpcsantana001/output/github-contribution-grid-snake.svg">
+
+<img
+ alt="GitHub Contribution Snake"
+ src="https://raw.githubusercontent.com/jpcsantana001/jpcsantana001/output/github-contribution-grid-snake.svg"> </picture>
 
 </div>
 
 ---
 
-# 🌐 `NETWORK`
+## `> CONNECT`
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/joão-pedro-santana-dos-anjos-016b10312">
-  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/joaop__santana">
-  <img src="https://img.shields.io/badge/Instagram-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://github.com/jpcsantana001">
-  <img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║           SYSTEM STATUS: ONLINE              ║
+║                                              ║
+║     Building • Learning • Improving          ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+### `< João Pedro Santana />`
+
+![Visitors](https://komarev.com/ghpvc/?username=jpcsantana001\&style=for-the-badge\&color=blueviolet)
 
 </div>
